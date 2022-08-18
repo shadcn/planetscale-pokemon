@@ -149,6 +149,11 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@planetscale/database@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@planetscale/database/-/database-1.0.1.tgz#1d99accea8d53e8b36549a74a1e9e3aca2a6be82"
+  integrity sha512-bAC2FqmhWu5hGiBtH4txAxwO6XeLCUzNr3ubMSso3AfCp5wp7Pw375ujtwZWpjCvpUhelu/X9em6bszPGTk5Bw==
+
 "@rushstack/eslint-patch@^1.1.3":
   version "1.1.4"
   resolved "https://registry.yarnpkg.com/@rushstack/eslint-patch/-/eslint-patch-1.1.4.tgz#0c8b74c50f29ee44f423f7416829c0bf8bb5eb27"
